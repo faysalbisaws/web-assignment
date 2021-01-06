@@ -1,7 +1,55 @@
-section{
-    height: 500px;
-    padding-bottom: 100px;
+body{
+    font-family: 'Poppins', sans-serif;
 }
 h1{
-    font-size: 90px;
+    font-size: 50px;
+    line-height: 0.4;
+
+}
+p{
+    color: black;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(45deg,lightsalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+   
+}
+.name-highlight{
+    color: tomato;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 5%;
+    padding:left 2%;
+    line-height: 100px;
+   
+    }
+.half-width img{
+    width: 70%
+}
+ 
+p{
+    line-height: 0.8;
+    font-size: 10px;
+    
+}
+.high-light{
+    color: tomato;
+    
+}
+
+  
+ 
+.tab{
+    text-align: center;
+}
+.unit{
+    width: 30%;
+    padding:left 2%;
+   
 }
